@@ -12,4 +12,4 @@ This project is a simple HTML website. It includes a basic structure with a head
 To get started, simply clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/html-project.git
+https://github.com/bhargavi-gudur/htmlMiniProject.git
