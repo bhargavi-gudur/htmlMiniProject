@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Canvas Example</title>
+</head>
+
+<body>
+    <canvas id="myCanvas" width="400" height="200" style="border:1px solid #6d7605;">
+        Your browser does not support the HTML canvas tag.
+    </canvas>
+
+    <script>
+        var canvas = document.getElementById("myCanvas");
+        var ctx = canvas.getContext("2d");
+        ctx.font = "30px Arial";
+        ctx.fillText("Hi, I'm Gandla Bhargavi", 10, 50);
+    </script>
+</body>
+
+</html>
